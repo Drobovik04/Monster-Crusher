@@ -1,0 +1,343 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_GUID: f4af10fb66a8c114c90c217d10888c09
+  m_SerializeEntries:
+  - m_GUID: 09044c39c89f41544be689c836975aee
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritMultiplier/Sword Crit
+      Multiplier Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11d78329a17b6c44bbd64decf409d815
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritMultiplier/Sword Crit
+      Multiplier Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 128436a057262314ab6cea1ca394a057
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritChane/Sword Crit Chance
+      Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12bad56c25124534c85fc1980b1e0514
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Size/Sword Size Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1416c4b3940841945b5c8b4ab72be56d
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritMultiplier/Sword Crit
+      Multiplier Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 16ac8d3cc4aa4b24d99d96da65d63d9d
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Size/Sword Size Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 182d06868df9cfd44a8522fb573636e2
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritMultiplier/Sword Crit
+      Multiplier Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18a30722c38c8be499c6759d3015e953
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Knockback/Sword Crit Multiplier
+      Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a23a427c1c7744479485b89ea3da8dd
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Size/Tornado Size Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 208b58070b528e347ad6ecf365adc121
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Knockback/Sword Crit Multiplier
+      Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 26a20aa370cf8f747899ec65fff39ac8
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Damage/Sword Damage Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 36ffd0aca02bd94418969f13335c93d2
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/AttackSpeed/Sword AttackSpeed
+      Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40b6805fa43af7c49895495ad298359b
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Size/Tornado Size Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43cf32386bb7e954ca1898617f8275dc
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/AttackSpeed/Tornado AttackSpeed
+      Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4597dd71d4b514c4d83436e969f200c1
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Size/Tornado Size Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 462d6ae1461e4f1469fb149268994fc1
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritChane/Sword Crit Chane
+      Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 528fcd3fb7aa8eb458ed398f8d689006
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Damage/Tornado Damage Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 561ddc3babf772547a0e5d1bc837861c
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritMultiplier/Sword Crit
+      Multiplier Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77dd03f7487830c409fd56d44fbf0c4b
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/AttackSpeed/Tornado AttackSpeed
+      Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7dacd68faf5de4646b650273ea137fd0
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritChane/Sword Crit Chance
+      Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7de47a4516449b84dbd3faf1647e29f4
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritChane/Sword Crit Chance
+      Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8775a79be50e29c4c956e7b8536f3ef0
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Size/Sword Size Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8c9c2e212074ae442bf44a5744eac530
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Damage/Sword Damage Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9346d04e70de030418d06622d9c593a5
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Damage/Tornado Damage Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a05edf9b59846a4fa584a2e0fc87362
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritChane/Sword Crit Chance
+      Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9f239dc9f69afaa4694eb576b3dd3d6d
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Damage/Tornado Damage Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a23faecd8c573264ea42d7a062e567a8
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/AttackSpeed/Sword AttackSpeed
+      Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae263181ff0e58949bef589a8e838d17
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Knockback/Sword Knockback
+      Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ae96cae94f5561541b5d48525594f093
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Knockback/Sword Crit Multiplier
+      Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af1cccb0b8a8f2a4b9270894c5bff2d8
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Knockback/Sword Crit Multiplier
+      Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af5f3279fc572a74e9aa927116b62abd
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Knockback/Sword Crit Multiplier
+      Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b0ecd057eda389848bbc3998b12d5d2c
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Size/Sword Size Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5e118d9a87b8404392e9d40e50bb641
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Damage/Sword Damage Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b633bc9eeb9d0a243aff6739ca503d73
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Knockback/Sword Knockback
+      Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c147315b3be7038429d917403341dc76
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritMultiplier/Sword Crit
+      Multiplier Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c45af2a88751a4e48a7253971287bedd
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritChane/Sword Crit Chance
+      Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c53ada8806583e74bb73421eef60d620
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/AttackSpeed/Tornado AttackSpeed
+      Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d361ce10bbee3a74a9431cc46c412138
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/AttackSpeed/Tornado AttackSpeed
+      Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d49e1842086606e4f9c767e8626d2636
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/AttackSpeed/Sword AttackSpeed
+      Epic.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d898a0e0509a6364ebc2d63e78db91c7
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Knockback/Sword Crit Multiplier
+      Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc504f95aec0d1248b1761488fd83184
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritMultiplier/Sword Crit
+      Multiplier Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e091f9fdbbde51e4b9c2e31289cb5e72
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Damage/Tornado Damage Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e97a9258a5835b44b9e5d0a3172dc5e8
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritMultiplier/Sword Crit
+      Multiplier Rare.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea412135c4ed58e4f9d9d74dee579a1d
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/AttackSpeed/Sword AttackSpeed
+      Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee15c1e8c98ae9241926ef8e4f875b13
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/Size/Tornado Size Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eef8f9e42cde5d9459def0999d677d8b
+    m_Address: Assets/ScriptableObjects/Upgrades/Tornado/CritChane/Sword Crit Chance
+      Legendary.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f10684b6e9ed7a544a5bb7a72ffd1757
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/Damage/Sword Damage Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb8d09872fe1b9c45ae042be1f6f748e
+    m_Address: Assets/ScriptableObjects/Upgrades/Sword/CritChane/Sword Crit Chane
+      Common.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UpgradePool
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 6f32660242765b648824419e10583a23, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 50aab43a445ca6e4188209963fc2ce96, type: 2}
+    - {fileID: 11400000, guid: f7799727bf0598342ad39898d6115364, type: 2}
